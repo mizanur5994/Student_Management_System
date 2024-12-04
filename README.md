@@ -1,6 +1,6 @@
 A simple student management system with CRUD functionalities made using Java, NetBeans IDE and Oracle as the database.
 
-This project uses a table named 'Students_Table' stored in an Oracle database to perform operations on the data. 
+This project uses a table named 'Students_Table' stored in an Oracle Database to perform operations on the data. 
 
 ### **Note:** 
 * Add your Oracle database Username and Password into the 'config.config' file in order to use Oracle database in this application.
